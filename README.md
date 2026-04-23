@@ -29,10 +29,6 @@ The project follows a **star-schema-like structure**:
 
 ---
 
-## 📊 Dashboard Preview
-
----
-
 ## 🚀 Key Features
 - 🔄 Real-time data integration using Weather API  
 - 📊 Interactive Power BI dashboard with 10+ KPIs  
