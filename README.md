@@ -94,18 +94,6 @@ The project follows a **star-schema-like structure**:
 
 ---
 
-## 📂 Repository Structure
-
-├── dataset/
-├── images/
-│ ├── dashboard.png
-│ └── data_model.png
-├── dashboard.pbix
-└── README.md
-
-
----
-
 ## 🔗 How to Run
 1. Clone the repository  
 2. Open `.pbix` file in Power BI  
@@ -116,7 +104,11 @@ The project follows a **star-schema-like structure**:
 
 ## 🔮 Future Improvements
 
-- Add alert system for extreme weather  
+- Add alert system for extreme weather.
+- Fetches live weather data using API and updates automatically in Power BI.
+- Provides daily solar timing analytics.
+- Ensures dashboard always reflects latest data.
+ 
 
 ---
 
