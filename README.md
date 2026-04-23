@@ -115,8 +115,7 @@ The project follows a **star-schema-like structure**:
 ---
 
 ## 🔮 Future Improvements
-- Add predictive analytics using Python  
-- Deploy dashboard to Power BI Service  
+
 - Add alert system for extreme weather  
 
 ---
